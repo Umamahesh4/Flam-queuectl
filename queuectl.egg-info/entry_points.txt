@@ -1,0 +1,2 @@
+[console_scripts]
+queuectl = queuectl_project.cli:main_cli
